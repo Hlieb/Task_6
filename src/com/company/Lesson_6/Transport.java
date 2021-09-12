@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Lesson_6;
 
 public abstract class Transport {
     int power;
