@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Lesson_6;
 
 public abstract class Land_transport extends Transport {
     int NumberOfWheels;
